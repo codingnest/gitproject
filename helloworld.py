@@ -1,2 +1,2 @@
 print("Learning GIT")
-print("GITHUB Repository")
+print("GITHUB Repository and commands")
